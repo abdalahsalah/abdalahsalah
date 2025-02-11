@@ -7,7 +7,7 @@ Passionate about **Software Engineering**, currently learning **JavaScript**.
 ---
 
 ## About Me  
-- Currently working on **ATmega32 Drivers** and **Embedded Systems Projects**.  
+- Currently working on **Programming Languages** and **Open Source Projects**.  
 - Exploring **data structures** and **algorithms** alongside my engineering journey.  
 - Interested in merging **software** and **hardware** innovations.  
 - How to reach me: [abdallah.salah@ieee.org](mailto:abdallah.salah@ieee.org)  
@@ -15,9 +15,9 @@ Passionate about **Software Engineering**, currently learning **JavaScript**.
 ---
 
 ##  Skills  
-- **Programming Languages**: C, Python, JavaScript  
+- **Programming Languages**: C, C++, Python, JavaScript  
 - **Fields of Expertise**: Embedded Systems, Data Structures, Software Engineering  
-- **Technologies**: AVR, ATmega32, Git, Linux  
+- **Technologies**: AVR, ATmega32, Git, Linux, VS Code  
 
 ---
 
