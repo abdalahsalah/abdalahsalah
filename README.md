@@ -16,8 +16,8 @@ Passionate about **Software Engineering**, currently learning **JavaScript**.
 
 ##  Skills  
 - **Programming Languages**: C, C++, Python, JavaScript  
-- **Fields of Expertise**: Embedded Systems, Data Structures, Software Engineering  
-- **Technologies**: AVR, ATmega32, Git, Linux, VS Code  
+- **Fields of Expertise**: OOP, Data Structures, Database(sql),OS   
+- **Technologies**: Git, Linux, VS Code  
 
 ---
 
